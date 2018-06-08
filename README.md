@@ -10,6 +10,12 @@ A new block is given some data when it is made (instantiated):
 | Previous hash | Unique identifier of the preceeding version             |
 |---------------|---------------------------------------------------------|
 
+| 1  |   |   |   |   |
+|----|---|---|---|---|
+|  1 |   |   |   |   |
+|  1 |   |   |   |   |
+|  1 |   |   |   |   |
+
 It has one method - generateHash()
 
 A hash is a unique identifier. It is made by applying a cryptographic algorithm to the data to generate a unique vaue that is converted to string.
