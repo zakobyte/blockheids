@@ -1,0 +1,15 @@
+{
+  "name": "blockheids",
+  "version": "1.0.0",
+  "description": "Blockheaids examples",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Zak Moore",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "jest": "^23.1.0"
+  }
+}
